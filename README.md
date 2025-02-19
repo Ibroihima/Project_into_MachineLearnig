@@ -32,7 +32,7 @@ Les données utilisées dans ce projet proviennent des sources suivantes :
 
 ## Technologies et Outils
 - **Langages** : Python
-- **Bibliothèques** : NumPy, Pandas, Scikit-Learn, TensorFlow/Keras, Matplotlib, Seaborn
+- **Bibliothèques** : NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 - **Sources de données** : CEPMMT, capteurs d'infrasons
 
 ## Résultats attendus
